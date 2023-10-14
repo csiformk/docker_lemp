@@ -79,3 +79,4 @@ $RECYCLE.BIN/
 .env
 db*
 pma*
+*.bak

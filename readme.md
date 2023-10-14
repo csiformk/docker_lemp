@@ -10,7 +10,7 @@ d'un serveur de base de donnée relationnel **mariadb**  ,
 
 ### A faire
 
-- Modifier le fichier `.env` avec les variables d'environnements
+- Copien le fichier `.env.local` en `.env` et y modifier les variables d'environnements
 - Renseigner si besoin `.dockerignore`
 
 ### Utilisation des conteneurs
