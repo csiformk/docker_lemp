@@ -36,6 +36,7 @@ services:
 
   phpmyadmin:
     image: phpmyadmin
+    container_name: ${PROJECT}-pma
     restart: always
     ports:
       - ${PMA_PORT}:80
